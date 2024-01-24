@@ -6,9 +6,6 @@ version: 1.0.0
 
 ### Admin Password : 12345
 
-## Full Tutorial PHP and MySQL Project
-
-[On Youtube](https://youtube.com/playlist?list=PL2WFgdVk-usF5q_zBoHCFeGEj7NCQ_YLq)
 
 ## References
 
